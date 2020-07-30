@@ -1,3 +1,4 @@
+#main function
 def main():
     import random
 
